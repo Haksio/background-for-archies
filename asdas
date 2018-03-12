@@ -23,7 +23,7 @@ IMPORTANT: Links must be HTTPS!
     --channel-color: #832bff;
 	
     /* IMAGES */
-	- --background-image: url(https://cdn.discordapp.com/attachments/201072410206797825/422541871647293451/R6RtGhrSIgYiovtkXrdSfHrqnMnsm56B77Bq8ozLZVw.png);
+	--background-image: url(https://cdn.discordapp.com/attachments/201072410206797825/422541871647293451/R6RtGhrSIgYiovtkXrdSfHrqnMnsm56B77Bq8ozLZVw.png);
 	--dm-image: url(https://puu.sh/w1y3a/7e878418b3.gif);	
 	--profile-image: url(https://puu.sh/sAO0x/fdecb6c24b.png);
     --nsfw-image: url(https://puu.sh/zbsiF/9b67596e0e.png);
